@@ -21,7 +21,15 @@ My name is Rosalie and I started in July 2021 a postdoc at the iEES-Paris (FR). 
 <div align="center">
  <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api?username=rosalieb&show_icons=true&hide_title=true&hide_border=true&theme=light" /><img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosalieb&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=light" />
 </div>
+
+
 <!--
+<div align="center">
+  <h2></h2>
+</div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rosalieb&repo=serac)](https://github.com/rosalieb/serac)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rosalieb&repo=rhobo)](https://github.com/rosalieb/rhobo)
 
 <!--
 **rosalieb/rosalieb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
