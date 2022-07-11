@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-My name is Rosalie and I started in July 2021 a postdoc at the iEES-Paris (FR). I am working on understanding the impact of heatwaves on experimental ponds, located south of Paris (France).  
-
 - 😄 Pronouns: she/her
 
 - 👯 I’m looking to collaborate on projects looking at the impact of synchronous ans asynchronous stressors on communities or ecosystems.
